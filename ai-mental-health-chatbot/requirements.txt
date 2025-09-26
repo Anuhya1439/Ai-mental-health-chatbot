@@ -1,0 +1,13 @@
+flask>=2.0
+gunicorn
+transformers>=4.0
+torch
+sentencepiece
+soundfile
+numpy
+python-dotenv
+requests
+pydub
+whisper==1.0.1
+webdriver-manager
+pytest
